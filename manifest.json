@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "BinaryCoffee",
+	"version": "1.0",
+	"author": "DC's Community",
+	"description": "Mantengase al tanto de BinaryCoffee",
+	"icons": {
+		"16": "icon16.png",
+		"64": "icon64.png",
+		"128": "icon128.png"
+	},
+	"browser_action": {
+		"default_icon": "icon16.png",
+		"default_title": "BinaryCoffee",
+		"default_popup": "index.html"
+	}
+}
