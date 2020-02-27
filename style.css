@@ -18,8 +18,7 @@ main {
 	align-items: center;
 }
 
-header,
-footer {
+header {
 	position: sticky;
 	display: flex;
 	flex-direction: column;
@@ -34,10 +33,6 @@ footer {
 
 header {
 	top: 0;
-}
-
-footer {
-	bottom: 0;
 }
 
 .header-name {
@@ -76,7 +71,7 @@ footer {
 }
 
 .post {
-	background-color: #afe6d4;
+	background-color: white;
 }
 
 .post-name {
